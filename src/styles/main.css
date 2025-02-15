@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import "./bg.css";
+
 .select2-dropdown {
     @apply bg-white border border-gray-300 rounded-lg shadow-md;
 }
