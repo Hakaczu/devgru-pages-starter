@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tailwindcss -i ./public/styles/main.css -o ./public/styles/compiled.css --watch",
+    "build": "tailwindcss -i ./public/styles/main.css -o ./public/styles/compiled.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hakaczu/tailwind-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hakaczu/tailwind-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Hakaczu/tailwind-boilerplate#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "tailwindcss": "^4.0.6"
+  }
+}

@@ -1,0 +1,3 @@
+/* Importujemy cała bilbiotekę Tailwind */
+@import "tailwindcss";
+/* Jeśli CSS jest rozbity na inne pliki to importujemy je przez @import też */
