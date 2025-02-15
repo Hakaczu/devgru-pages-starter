@@ -10,5 +10,9 @@ npm install
 ```
 ## Użycie
 ```bash
-npx parcel src/index.html
+npm run start
+```
+## Budowanie
+```bash
+npm run build
 ```
