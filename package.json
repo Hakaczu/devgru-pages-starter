@@ -1,25 +1,16 @@
 {
   "name": "tailwind-boilerplate",
-  "version": "1.0.0",
-  "main": "index.js",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hakaczu/tailwind-boilerplate.git"
+  "devDependencies": {
+    "parcel": "latest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Hakaczu/tailwind-boilerplate/issues"
-  },
-  "homepage": "https://github.com/Hakaczu/tailwind-boilerplate#readme",
-  "description": "",
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.6",
-    "parcel": "^2.13.3",
     "tailwindcss": "^4.0.6"
   }
 }
