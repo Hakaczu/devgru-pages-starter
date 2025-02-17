@@ -8,10 +8,9 @@
 - **`dist/`** - katalog z zbudowaną aplikacją (generowany automatycznie)
 
 ## Tech stack
-### CSS
 - Tailwind.css
 - PostCSS
-### Bundler & Package Manager
+- PostHTML
 - Parcel.js
 - NPM
 
