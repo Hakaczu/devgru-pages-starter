@@ -4,7 +4,7 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "rm -rf ./dist && parcel build --public-url ./ src/index.html && du -sh dist"
+    "build": "rm -rf ./dist && parcel build --public-url ./ src/index.html && du -sh -I'*.map' dist"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.6",
