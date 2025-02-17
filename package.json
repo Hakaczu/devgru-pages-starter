@@ -7,10 +7,11 @@
     "build": "rm -rf ./dist && parcel build"
   },
   "devDependencies": {
-    "parcel": "latest"
+    "@tailwindcss/postcss": "^4.0.6",
+    "parcel": "latest",
+    "posthtml-doctype": "^1.1.1"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.0.6",
     "tailwindcss": "^4.0.6"
   }
 }
