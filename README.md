@@ -11,8 +11,9 @@
 ### CSS
 - Tailwind.css
 - PostCSS
-### JavaScript
+### Bundler & Package Manager
 - Parcel.js
+- NPM
 
 ## Instalacja
 ```bash
