@@ -3,7 +3,7 @@
 - **`src/`** - główny katalog z kodem źródłowym
   - **`assets/`** - zasoby statyczne
   - **`css/`** - style CSS i komponenty Tailwind
-  - **`js/`** - pliki JavaScript
+  - **`scripts/`** - pliki JavaScript
   - **`components/`** - współdzielone komponenty HTML
 - **`dist/`** - katalog z zbudowaną aplikacją (generowany automatycznie)
 
