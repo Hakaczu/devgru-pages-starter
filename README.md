@@ -1,5 +1,12 @@
 # Tailwind.css Boilerplate
-[Struktura folderów](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files#what_structure_should_a_website_have)
+### Opis struktury folderów:
+- **`src/`** - główny katalog z kodem źródłowym
+  - **`assets/`** - zasoby statyczne
+  - **`css/`** - style CSS i komponenty Tailwind
+  - **`js/`** - pliki JavaScript
+  - **`components/`** - współdzielone komponenty HTML
+- **`dist/`** - katalog z zbudowaną aplikacją (generowany automatycznie)
+
 ## Tech stack
 - Tailwind.css
 - Parcel.js
