@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "flowbite";
 @import "./bg.css";
 
 .select2-dropdown {

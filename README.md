@@ -21,7 +21,7 @@ npm install
 ```
 ## Użycie
 ```bash
-npm run start
+npm run dev
 ```
 ## Budowanie
 ```bash
