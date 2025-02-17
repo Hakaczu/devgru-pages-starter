@@ -9,6 +9,7 @@
 
 ## Tech stack
 - Tailwind.css
+- Flowbite - Tailwind library
 - PostCSS
 - PostHTML
 - Parcel.js
