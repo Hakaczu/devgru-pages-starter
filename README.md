@@ -1,9 +1,3 @@
-Oto elegancko sformatowana i bardziej profesjonalna wersja Twojego README, gotowa do użycia w repozytorium DEVGRU-Pages-starter:
-
-⸻
-
-
-
 # DEVGRU Pages Starter
 
 **DEVGRU Pages Starter** to lekki i nowoczesny starter do tworzenia statycznych stron typu landing page, one-pager lub microsite. Projekt wykorzystuje Parcel, TailwindCSS i inne narzędzia do szybkiego prototypowania i wdrażania stron.
