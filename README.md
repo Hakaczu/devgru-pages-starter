@@ -11,15 +11,13 @@ Oto elegancko sformatowana i bardziej profesjonalna wersja Twojego README, gotow
 ---
 
 ## 📁 Struktura katalogów
-
-/
-├── src/                Główny katalog z kodem źródłowym
-│   ├── assets/         Zasoby statyczne (obrazy, fonty itp.)
-│   ├── css/            Style i komponenty TailwindCSS
-│   ├── scripts/        Pliki JavaScript
-│   └── components/     Współdzielone komponenty HTML
-├── dist/               Wygenerowana aplikacja (build)
-└── package.json        Definicja zależności i skryptów
+- src/ – główny katalog z kodem źródłowym:
+  - assets/ – obrazy, fonty, inne zasoby
+	- css/ – style oraz pliki TailwindCSS
+	- scripts/ – skrypty JavaScript
+	- components/ – współdzielone komponenty HTML
+- dist/ – wygenerowana aplikacja (folder builda)
+- package.json – zależności i skrypty projektu
 ---
 
 ## ⚙️ Stack technologiczny
