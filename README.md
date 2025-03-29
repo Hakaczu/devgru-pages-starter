@@ -1,39 +1,70 @@
-# Tailwind.css Boilerplate
+Oto elegancko sformatowana i bardziej profesjonalna wersja Twojego README, gotowa do użycia w repozytorium DEVGRU-Pages-starter:
 
-## Table of Contents
-- [Opis struktury folderów](#opis-struktury-folderów)
-- [Tech stack](#tech-stack)
-- [Instalacja](#instalacja)
-- [Użycie](#użycie)
-- [Budowanie](#budowanie)
+⸻
 
-## Opis struktury folderów
-- **`src/`** - główny katalog z kodem źródłowym
-  - **`assets/`** - zasoby statyczne
-  - **`css/`** - style CSS i komponenty Tailwind
-  - **`scripts/`** - pliki JavaScript
-  - **`components/`** - współdzielone komponenty HTML
-- **`dist/`** - katalog z zbudowaną aplikacją (generowany automatycznie)
 
-## Tech stack
-- Tailwind.css
-- Flowbite - Tailwind library
-- PostCSS
-- PostHTML
-- Parcel.js
-- NPM
 
-## Instalacja
+# DEVGRU Pages Starter
+
+**DEVGRU Pages Starter** to lekki i nowoczesny starter do tworzenia statycznych stron typu landing page, one-pager lub microsite. Projekt wykorzystuje Parcel, TailwindCSS i inne narzędzia do szybkiego prototypowania i wdrażania stron.
+
+---
+
+## 📁 Struktura katalogów
+
+.
+├── src/               # Kod źródłowy
+│   ├── assets/        # Zasoby statyczne (obrazy, fonty, itp.)
+│   ├── css/           # Style i komponenty TailwindCSS
+│   ├── scripts/       # Skrypty JavaScript
+│   └── components/    # Współdzielone komponenty HTML
+└── dist/              # Wygenerowana aplikacja (build)
+
+---
+
+## ⚙️ Stack technologiczny
+
+- [Parcel.js](https://parceljs.org/) – zero-config bundler
+- [Tailwind CSS](https://tailwindcss.com/) – narzędziowy framework CSS
+- [Flowbite](https://flowbite.com/) – komponenty UI dla Tailwinda
+- [PostCSS](https://postcss.org/) – przetwarzanie CSS
+- [PostHTML](https://github.com/posthtml/posthtml) – przetwarzanie HTML
+- [NPM](https://www.npmjs.com/) – zarządzanie zależnościami
+
+---
+
+## 🚀 Instalacja
+
+Zainstaluj zależności:
+
 ```bash
 npm install
-```
 
-## Użycie
-```bash
+
+
+⸻
+
+🧪 Tryb developerski
+
+Uruchom środowisko deweloperskie z live-reloadem:
+
 npm run dev
-```
 
-## Budowanie
-```bash
+
+
+⸻
+
+🏗️ Budowanie wersji produkcyjnej
+
+Wygeneruj zoptymalizowaną wersję strony:
+
 npm run build
-```
+
+
+
+⸻
+
+🧰 Autorzy i licencja
+
+Projekt rozwijany przez DEVGRU.
+Licencja: MIT
