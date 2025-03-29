@@ -1,5 +1,13 @@
 # Tailwind.css Boilerplate
-### Opis struktury folderów:
+
+## Table of Contents
+- [Opis struktury folderów](#opis-struktury-folderów)
+- [Tech stack](#tech-stack)
+- [Instalacja](#instalacja)
+- [Użycie](#użycie)
+- [Budowanie](#budowanie)
+
+## Opis struktury folderów
 - **`src/`** - główny katalog z kodem źródłowym
   - **`assets/`** - zasoby statyczne
   - **`css/`** - style CSS i komponenty Tailwind
@@ -19,10 +27,12 @@
 ```bash
 npm install
 ```
+
 ## Użycie
 ```bash
 npm run dev
 ```
+
 ## Budowanie
 ```bash
 npm run build
