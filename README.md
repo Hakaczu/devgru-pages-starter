@@ -12,7 +12,7 @@ Oto elegancko sformatowana i bardziej profesjonalna wersja Twojego README, gotow
 
 ## 📁 Struktura katalogów
 - src/ – główny katalog z kodem źródłowym:
-  - assets/ – obrazy, fonty, inne zasoby
+	- assets/ – obrazy, fonty, inne zasoby
 	- css/ – style oraz pliki TailwindCSS
 	- scripts/ – skrypty JavaScript
 	- components/ – współdzielone komponenty HTML
