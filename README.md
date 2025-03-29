@@ -29,9 +29,9 @@
 
 Zainstaluj zależności:
 
-```bash
+```shell
 npm install
-
+```
 
 
 ⸻
@@ -39,9 +39,9 @@ npm install
 🧪 Tryb developerski
 
 Uruchom środowisko deweloperskie z live-reloadem:
-
+```shell
 npm run dev
-
+```
 
 
 ⸻
@@ -49,9 +49,9 @@ npm run dev
 🏗️ Budowanie wersji produkcyjnej
 
 Wygeneruj zoptymalizowaną wersję strony:
-
+```shell
 npm run build
-
+```
 
 
 ⸻
